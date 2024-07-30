@@ -23,7 +23,7 @@ Developed a mini project on Image Fusion using Python for backend processing and
 ### Usage
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/image-fusion.git
+    git clone https://github.com/surendraA9/image-fusion.git
     ```
 2. Navigate to the project directory:
     ```bash
