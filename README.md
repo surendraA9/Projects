@@ -37,7 +37,7 @@ Developed a mini project on Image Fusion using Python for backend processing and
     ```bash
     python app.py
     ```
-5. Open your web browser and go to `http://localhost:5000` to access the application.
+5. Open your web browser and go to 'http://127.0.0.1:5000' to access the application.
 
 ### License
 This project is licensed under the MIT License.
