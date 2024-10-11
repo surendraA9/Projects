@@ -26,3 +26,7 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/srit-talks.git
    cd srit-talks
+2. 1. **Create a Virtual Environment:**:
+
+   ```bash
+   python -m venv env
