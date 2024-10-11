@@ -26,7 +26,41 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/srit-talks.git
    cd srit-talks
-2. 1. **Create a Virtual Environment:**:
+2.**Create a Virtual Environment:**:
 
    ```bash
    python -m venv env
+3.**Activate the Virtual Environment:**:
+
+   ```bash
+   .\env\Scripts\activate
+4.**Install the Required Dependencies:**:
+
+   ```bash
+   pip install -r requirements.txt
+5.**Run Migrations:**:
+
+   ```bash
+   python manage.py migrate
+6.**Create a Superuser (Admin):**:
+
+   ```bash
+   python manage.py createsuperuser
+7.**Run the Development Server:**:
+
+   ```bash
+   python manage.py runserver
+8.Access the Project:
+
+Visit http://127.0.0.1:8000/ to view the project.
+Go to http://127.0.0.1:8000/admin/ to access the admin panel.
+
+Usage
+   Login: Users can log in using their registered credentials.
+   Post Creation: After logging in, users can create posts that will appear on the feed.
+   Profile: Users can view their profile and posts they have created.
+Future Enhancements
+   Deployment: Plan to deploy the project on a public platform.
+   Additional Features: Add commenting, notifications, and more content filtering options.
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
