@@ -26,27 +26,27 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/srit-talks.git
    cd srit-talks
-2.**Create a Virtual Environment:**:
+2. **Create a Virtual Environment**:
 
    ```bash
    python -m venv env
-3.**Activate the Virtual Environment:**:
+3. **Activate the Virtual Environment**:
 
    ```bash
    .\env\Scripts\activate
-4.**Install the Required Dependencies:**:
+4. **Install the Required Dependencies**:
 
    ```bash
    pip install -r requirements.txt
-5.**Run Migrations:**:
+5. **Run Migrations**:
 
    ```bash
    python manage.py migrate
-6.**Create a Superuser (Admin):**:
+6. **Create a Superuser (Admin)**:
 
    ```bash
    python manage.py createsuperuser
-7.**Run the Development Server:**:
+7. **Run the Development Server**:
 
    ```bash
    python manage.py runserver
