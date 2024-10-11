@@ -55,12 +55,12 @@ To run this project locally, follow these steps:
 Visit http://127.0.0.1:8000/ to view the project.
 Go to http://127.0.0.1:8000/admin/ to access the admin panel.
 
-**Usage**
-  - **Login: Users can log in using their registered credentials.
-  - **Post Creation: After logging in, users can create posts that will appear on the feed.
-  - **Profile: Users can view their profile and posts they have created.
-**Future Enhancements**
-  - **Deployment: Plan to deploy the project on a public platform.
-  - **Additional Features: Add commenting, notifications, and more content filtering options.
+#**Usage**
+  - **Login:** Users can log in using their registered credentials.
+  - **Post Creation:** After logging in, users can create posts that will appear on the feed.
+  - **Profile:** Users can view their profile and posts they have created.
+#**Future Enhancements**
+  - **Deployment:** Plan to deploy the project on a public platform.
+  - **Additional Features:** Add commenting, notifications, and more content filtering options.
 **License**
 This project is licensed under the MIT License - see the LICENSE file for details.
